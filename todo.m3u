@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:0,RAKU DRAMA
 http://ip244.ip-5-135-233.eu:4512/tropicalkopru/dP9CHaYGIQ/187448
 #EXTINF:0,RAKU DRAMA
@@ -893,9 +892,9 @@ http://pe.shortgod.com/colaloca21/tv4.php?id=17018
 http://pe.shortgod.com/colaloca21/tv4.php?id=17016
 #EXTINF:-1,Latin DO CERTV
 http://pe.shortgod.com/colaloca21/tv4.php?id=17015
-#EXTINF:-1beIN Xtra en EspaÃ±ol 
+#EXTINF:-1,beIN Xtra en EspaÃ±ol 
 http://pe.shortgod.com/colaloca21/tv4.php?id=22997
-#EXTINF:-1beIN Ã± 
+#EXTINF:-1,beIN Ã± 
 http://pe.shortgod.com/colaloca21/tv4.php?id=22996
 #EXTINF:-1,US Latin beIN SPORTS CONNECT LaLiga S)
 http://pe.shortgod.com/colaloca21/tv4.php?id=22892
@@ -2037,9 +2036,9 @@ http://pe.shortgod.com/colaloca21/tv4.php?id=210806
 http://pe.shortgod.com/colaloca21/tv4.php?id=210807
 #EXTINF:-1,GOL PERU
 http://pe.shortgod.com/colaloca21/tv4.php?id=228580
-#EXTINF:-1 CNN Chile
+#EXTINF:-1, CNN Chile
 http://pe.shortgod.com/colaloca21/tv4.php?id=230012
-#EXTINF:-1 Canal 24 Horas
+#EXTINF:-1, Canal 24 Horas
 http://pe.shortgod.com/colaloca21/tv4.php?id=230013
 #EXTINF:-1,Fox Sports 1
 http://pe.shortgod.com/colaloca21/tv4.php?id=230014
@@ -2051,11 +2050,11 @@ http://pe.shortgod.com/colaloca21/tv4.php?id=230016
 http://pe.shortgod.com/colaloca21/tv4.php?id=230017
 #EXTINF:-1,Directv Sports
 http://pe.shortgod.com/colaloca21/tv4.php?id=230018
-#EXTINF:-1 Zona Latina
+#EXTINF:-1, Zona Latina
 http://pe.shortgod.com/colaloca21/tv4.php?id=230019
-#EXTINF:-1 Viwix Series
+#EXTINF:-1, Viwix Series
 http://pe.shortgod.com/colaloca21/tv4.php?id=230020
-#EXTINF:-1 31 Minutos 24H
+#EXTINF:-1, 31 Minutos 24H
 http://pe.shortgod.com/colaloca21/tv4.php?id=230021
 #EXTINF:-1,Universal Cinema
 http://pe.shortgod.com/colaloca21/tv4.php?id=218987
@@ -3691,9 +3690,9 @@ http://pe.shortgod.com/colaloca21/tv2.php?id=210806
 http://pe.shortgod.com/colaloca21/tv2.php?id=210807
 #EXTINF:-1,GOL PERU
 http://pe.shortgod.com/colaloca21/tv2.php?id=228580
-#EXTINF:-1 CNN Chile
+#EXTINF:-1, CNN Chile
 http://pe.shortgod.com/colaloca21/tv2.php?id=230012
-#EXTINF:-1 Canal 24 Horas
+#EXTINF:-1, Canal 24 Horas
 http://pe.shortgod.com/colaloca21/tv2.php?id=230013
 #EXTINF:-1,Fox Sports 1
 http://pe.shortgod.com/colaloca21/tv2.php?id=230014
@@ -3705,11 +3704,11 @@ http://pe.shortgod.com/colaloca21/tv2.php?id=230016
 http://pe.shortgod.com/colaloca21/tv2.php?id=230017
 #EXTINF:-1,Directv Sports
 http://pe.shortgod.com/colaloca21/tv2.php?id=230018
-#EXTINF:-1 Zona Latina
+#EXTINF:-1, Zona Latina
 http://pe.shortgod.com/colaloca21/tv2.php?id=230019
-#EXTINF:-1 Viwix Series
+#EXTINF:-1, Viwix Series
 http://pe.shortgod.com/colaloca21/tv2.php?id=230020
-#EXTINF:-1 31 Minutos 24H
+#EXTINF:-1, 31 Minutos 24H
 http://pe.shortgod.com/colaloca21/tv2.php?id=230021
 #EXTINF:-1,Universal Cinema
 http://pe.shortgod.com/colaloca21/tv2.php?id=218987
@@ -8127,9 +8126,9 @@ http://pe.shortgod.com/colaloca21/tv7.php?id=59803
 http://pe.shortgod.com/colaloca21/tv7.php?id=59809
 #EXTINF:-1,Garage TV
 http://pe.shortgod.com/colaloca21/tv7.php?id=1531
-#EXTINF:-1 ARG-Telefe
+#EXTINF:-1, ARG-Telefe
 http://pe.shortgod.com/colaloca21/tv7.php?id=153673
-#EXTINF:-1 ARG-Telefe
+#EXTINF:-1, ARG-Telefe
 http://pe.shortgod.com/colaloca21/tv7.php?id=153933
 #EXTINF:-1,America 24
 http://pe.shortgod.com/colaloca21/tv7.php?id=116192
@@ -12515,9 +12514,9 @@ http://pe.shortgod.com/colaloca21/tv9.php?id=59803
 http://pe.shortgod.com/colaloca21/tv9.php?id=59809
 #EXTINF:-1,Garage TV
 http://pe.shortgod.com/colaloca21/tv9.php?id=1531
-#EXTINF:-1 ARG-Telefe
+#EXTINF:-1, ARG-Telefe
 http://pe.shortgod.com/colaloca21/tv9.php?id=153673
-#EXTINF:-1 ARG-Telefe
+#EXTINF:-1, ARG-Telefe
 http://pe.shortgod.com/colaloca21/tv9.php?id=153933
 #EXTINF:-1,America 24
 http://pe.shortgod.com/colaloca21/tv9.php?id=116192
