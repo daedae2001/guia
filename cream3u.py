@@ -1,12 +1,12 @@
 import csv
 
 # Define las rutas de entrada y salida
-archivo_csv = 'canales.csv'
-archivo_m3u = 'canales.m3u'
+archivo_csv = 'todo.csv'
+archivo_m3u = 'todos.m3u'
 
 # Abre el archivo CSV para lectura
-with open(archivo_csv, newline='', encoding='utf-8') as csvfile:
-    lector_csv = csv.DictReader(csvfile, delimiter=';')
+with open(archivo_csv, newline='', encoding='latin-1') as csvfile:
+    lector_csv = csv.DictReader(csvfile, delimiter=',')
     
     # Abre el archivo M3U para escritura
     with open(archivo_m3u, 'w', encoding='utf-8') as m3ufile:
@@ -15,15 +15,15 @@ with open(archivo_csv, newline='', encoding='utf-8') as csvfile:
 
         # Itera a través de las filas del archivo CSV
         for fila in lector_csv:
-            tvg_id = fila['\ufefftvg-id'].strip() if fila['\ufefftvg-id'].strip() else fila['nombre']
-            tvg_name = fila['tvg-name'].strip() if fila['tvg-name'].strip() else fila['nombre']
+            tvg_id =  fila['nombre']
+            tvg_name = fila['nombre']
             tvg_logo = fila['tvg-logo']
-            group_title = fila['group-title'].replace("," , '",')
+            group_title = fila['group-title']
             nombre = fila['nombre']
             url = fila['url']
 
             # Escribe la entrada M3U para cada canal
-            m3ufile.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" group-title="{group_title}\n')
+            m3ufile.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" group-title="{group_title}",{nombre}\n')
             m3ufile.write(f'{url}\n')
 
 print(f'Se ha creado el archivo M3U: {archivo_m3u}')
